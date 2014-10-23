@@ -85,7 +85,7 @@ class Encoder
      * files. Since not all MTAs can handle 8bit data, the 8bit encoding is not 
      * a valid encoding mechanism for Internet mail.
      * 
-     * http://msdn.microsoft.com/en-us/library/ms526992%28v=exchg.10%29.aspx
+     * @link http://msdn.microsoft.com/en-us/library/ms526992%28v=exchg.10%29.aspx
      */
     const EIGHT_BIT = '8bit';
     
