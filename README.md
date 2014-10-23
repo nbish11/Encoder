@@ -1,5 +1,7 @@
 # Encoder
 
+[![Build Status](https://travis-ci.org/nbish11/Encoder.svg)](https://travis-ci.org/nbish11/Encoder)
+
 ## Table of Contents
 * [About](#about)
 * [Getting Started](#getting-started)
@@ -59,8 +61,9 @@ $encoder->
 ```
 
 ## <a name="testing"></a>Testing
-I currently do not know much about unit testing. However if someone is able to unit 
-test for me that would be greatly appreciated.
+This project keeps all tests stored in the `/tests` folder
+and uses the [PHPUnit](https://github.com/sebastianbergmann/phpunit/) 
+testing framework.
 
 ## <a name="contributors"></a>Contributors
 
